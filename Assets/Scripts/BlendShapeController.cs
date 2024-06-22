@@ -52,8 +52,6 @@ public class BlendShapeController : MonoBehaviour
             (_refEyelidDef, "blendShape2.EYE_SMILE1"),
             (_refMouthDef, "blendShape1.MTH_SMILE1")
         });
-
-        Debug.Log("BlendShapeController initialized.");
     }
 
     void Update()
